@@ -19,3 +19,5 @@ font-family: 'Raleway', sans-serif;
 
 NOTES:
 -go back and add href's to nav bar links.
+
+-make pics on evidence page open in seperate page if clicked.
